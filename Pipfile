@@ -10,6 +10,7 @@ pandas = "*"
 flask = "*"
 elasticsearch = "*"
 sentence-transformers = "==2.7.0"
+python-dotenv = "*"
 
 [dev-packages]
 tqdm = "*"
